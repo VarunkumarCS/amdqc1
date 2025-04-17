@@ -1,0 +1,10 @@
+This script let us know which firmware is present on Dell AMD Servers for the following components:
+"Bios"
+"Backplane"
+"NIC.Integrated.1-1-1"
+"NIC.Integrated.1-2-1"
+"NIC.Slot.6-1-1"
+"NIC.Slot.6-2-1"
+"CPLD"
+"iDRAC"
+"BOSS"
